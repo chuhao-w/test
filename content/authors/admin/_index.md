@@ -54,7 +54,7 @@ highlight_name: false
 #user_groups:
 #- Researchers
 #- Visitors
-#---
+---
 
 I'm currently a PhD student of Information Sciences and Technology at Penn State University. Before joining Penn State, I completed my Master degree at Purdue University and worked as Research Associate at [Mechanical Engineering Education Research Center](https://www.purdue.edu/meercat/) for one year.
 
