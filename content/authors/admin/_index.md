@@ -25,7 +25,6 @@ education:
   courses:
   - course: PhD in Informatics
     institution: Penn State University
-    year: 
   - course: MSc in Industrial Engineering
     institution: Purdue University
     year: 2019
